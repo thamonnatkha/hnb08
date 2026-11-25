@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "น้ำผึ้งสด Raw Honey",
+    "price": 159,
+    "image": "images/rawhoney.jpg",
+    "description": "น้ำผึ้งแท้ธรรมชาติ ไม่ผ่านความร้อนสูง คงกลิ่นหอมและรสชาติดั้งเดิมของน้ำหวานจากดอกไม้"
+  },
+  {
+    "id": 2,
+    "name": "เยลลี่น้ำผึ้ง Honey Jelly",
+    "price": 189,
+    "image": "images/honeyjelly.jpg",
+    "description": "เยลลี่เนื้อนุ่มจากน้ำผึ้ง หวานละมุน ทานง่าย พกพาสะดวก"
+  },
+  {
+    "id": 3,
+    "name": "ลูกอมน้ำผึ้ง Honey Candies",
+    "price": 89,
+    "image": "images/honeycandies.jpg",
+    "description": "ลูกอมรสน้ำผึ้งหอมหวาน ชุ่มคอ เหมาะสำหรับพกติดกระเป๋า"
+  }
+]
